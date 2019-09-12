@@ -1,4 +1,6 @@
 :toc:
+:numbered:
+
 == Ansible Playbook for deploying k8s 
 
 In this repo, i will show you how to automated installing k8s on multi node using kubeadm. Before using this ansible playbook, make sure that: 
