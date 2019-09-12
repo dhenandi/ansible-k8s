@@ -50,7 +50,7 @@ ansible-playbook 1-initialize-user.yml
 * Install dependencies for k8s, such as docker, kubelet, kubeadm, etc
 
 ```bash
-ansible-playbook 2-initialize-user.yml
+ansible-playbook 2-install-dependencies.yml
 ```
 
 * Provision for master nodes and join on worker nodes
